@@ -6,7 +6,7 @@ import { ThemeProvider } from '@mui/system';
 import Home from './pages/Home';
 import theme from './theme';
 import PokemonDetails from './components/PokemonDetails';
-import "./App.css"
+
 
 const router = createBrowserRouter([
   {

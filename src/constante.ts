@@ -98,11 +98,5 @@ export const POKEMON_TYPES: IndexType[] = [
         url: "https://pokeapi.co/api/v2/type/18/",
         color: pink[600],
         },
-        
-        {
-        name: "shadow",
-        url: "https://pokeapi.co/api/v2/type/10002/",
-        color: green[100],
-        }
 ] 
 
